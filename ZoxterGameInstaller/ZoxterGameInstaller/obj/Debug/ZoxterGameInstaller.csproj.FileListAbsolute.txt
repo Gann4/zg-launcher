@@ -1,0 +1,10 @@
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\bin\Debug\ZoxterGameInstaller.exe.config
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\bin\Debug\ZoxterGameInstaller.exe
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\bin\Debug\ZoxterGameInstaller.pdb
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\obj\Debug\ZoxterGameInstaller.csprojAssemblyReference.cache
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\obj\Debug\ZoxterGameInstaller.Form1.resources
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\obj\Debug\ZoxterGameInstaller.Properties.Resources.resources
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\obj\Debug\ZoxterGameInstaller.csproj.GenerateResource.cache
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\obj\Debug\ZoxterGameInstaller.csproj.CoreCompileInputs.cache
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\obj\Debug\ZoxterGameInstaller.exe
+E:\$Programming Projects\C# Windows Forms\Plazma Burst Game Launcher\ZoxterGameInstaller\ZoxterGameInstaller\obj\Debug\ZoxterGameInstaller.pdb

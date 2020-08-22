@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btn_dl = new System.Windows.Forms.Button();
             this.btn_donate = new System.Windows.Forms.Button();
             this.btn_dlCancel = new System.Windows.Forms.Button();
@@ -184,6 +185,7 @@
             this.Controls.Add(this.btn_donate);
             this.Controls.Add(this.btn_dl);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Application Manager";
